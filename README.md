@@ -6,16 +6,16 @@
 
 <div align="center">
 
-<h2 align="center"><img src="images/h2-channel.svg" height="34" alt="1. channel"/></h2>
+<h2 align="center"><img src="images/h2-channel.svg" height="34" alt="1. Channel"/></h2>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:omnihub.ai@gmail.com)
 [![Resume](https://img.shields.io/badge/%20Resume-534225?style=flat&logoColor=white)](https://min-omniai.github.io/resume/)
 
 <br>
 
-<h2 align="center"><img src="images/h2-skills.svg" height="34" alt="2. skills"/></h2>
+<h2 align="center"><img src="images/h2-skills.svg" height="34" alt="2. Skills"/></h2>
 
-#### Game Client
+### Game Client
 
 <p>
   <img src="https://img.shields.io/badge/c%23-%23239120?style=flat&logo=C%23%20&logoColor=white"/> &nbsp
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white"/> &nbsp
 </p>
 
-#### AI Automation
+### AI Automation
 
 <p>
   <img src="https://img.shields.io/badge/Claude%20Code-191919?style=flat&logo=claude&logoColor=D97757"/> &nbsp
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=googleappsscript&logoColor=white"/> &nbsp
 </p>
 
-#### Data & Tooling
+### Data & Tooling
 
 <p>
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white"/> &nbsp
