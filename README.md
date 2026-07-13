@@ -15,7 +15,7 @@
 
 ## $\Large\textsf{\color{#F0E68C}{2.~skills}}$
 
-#### Game Client
+### Game Client
 
 <p>
   <img src="https://img.shields.io/badge/c%23-%23239120?style=flat&logo=C%23%20&logoColor=white"/> &nbsp
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white"/> &nbsp
 </p>
 
-#### AI Automation
+### AI Automation
 
 <p>
   <img src="https://img.shields.io/badge/Claude%20Code-191919?style=flat&logo=claude&logoColor=D97757"/> &nbsp
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=googleappsscript&logoColor=white"/> &nbsp
 </p>
 
-#### Data & Tooling
+### Data & Tooling
 
 <p>
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white"/> &nbsp
