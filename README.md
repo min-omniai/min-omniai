@@ -4,6 +4,7 @@
   </a>
 </div>
 
+<div align="center">
 
 ## $\Large\textsf{\color{#F0E68C}{1.~channel}}$
 
@@ -19,7 +20,7 @@
 <p>
   <img src="https://img.shields.io/badge/c%23-%23239120?style=flat&logo=C%23%20&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/unity-%23000000?style=flat&logo=Unity&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase%20AWS&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white"/> &nbsp
 </p>
 
 #### AI Automation
@@ -38,13 +39,13 @@
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/git-%23F05033?style=flat&logo=Git&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMy4xNSAyLjU4N0wxOC4yMS4yMWExLjQ5NCAxLjQ5NCAwIDAgMC0xLjcwNS4yOWwtOS40NiA4LjYzLTQuMTItMy4xMjhhLjk5OS45OTkgMCAwIDAtMS4yNzYuMDU3TC4zMjcgNy4yNjFBMSAxIDAgMCAwIC4zMjYgOC43NEwzLjg5OSAxMiAuMzI2IDE1LjI2YTEgMSAwIDAgMCAuMDAxIDEuNDc5TDEuNjUgMTcuOTRhLjk5OS45OTkgMCAwIDAgMS4yNzYuMDU3bDQuMTItMy4xMjggOS40NiA4LjYzYTEuNDkyIDEuNDkyIDAgMCAwIDEuNzA0LjI5bDQuOTQyLTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMjAuMDZWMy45MzlhMS41IDEuNSAwIDAgMC0uODUtMS4zNTJ6bS01LjE0NiAxNC44NjFMMTAuODI2IDEybDcuMTc4LTUuNDQ4djEwLjg5NnoiLz48L3N2Zz4="/> &nbsp
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white"/> &nbsp
 </p>
 
 <br>
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats-chaemin-l.vercel.app/api?username=min-omniai&&show_icons=true&theme=tokyonight" alt="min-omniai's GitHub stats" />
+<img src="https://github-readme-stats-chaemin-l.vercel.app/api?username=min-omniai&&show_icons=true&theme=tokyonight" alt="min-omniai's GitHub stats" />
+
 </div>
