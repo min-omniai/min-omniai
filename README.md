@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/Claude.ai-D97757?style=flat&logo=claude&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/GPT-412991?style=flat&logo=openai&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=googleappsscript&logoColor=white"/> &nbsp
 </p>
 
 ### Data & Tooling
