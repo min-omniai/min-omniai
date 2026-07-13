@@ -24,3 +24,5 @@
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=min-omniai&count_private=true&theme=merko" height="170">
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=psymchoi" height="150">
+
+<!-- profile refresh -->
