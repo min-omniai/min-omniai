@@ -6,14 +6,14 @@
 
 <div align="center">
 
-## $\Large\textsf{\color{#F0E68C}{1.~channel}}$
+## $\Large\textsf{\color{#F0E68C}{1.~Channel}}$
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:omnihub.ai@gmail.com)
 [![Resume](https://img.shields.io/badge/%20Resume-534225?style=flat&logoColor=white)](https://min-omniai.github.io/resume/)
 
 <br>
 
-## $\Large\textsf{\color{#F0E68C}{2.~skills}}$
+## $\Large\textsf{\color{#F0E68C}{2.~Skills}}$
 
 ### Game Client
 
