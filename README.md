@@ -4,18 +4,14 @@
   </a>
 </div>
 
-<div align="center">
-
-<h2 align="center"><img src="images/h2-channel.svg" height="38" alt="1. Channel"/></h2>
+<h2><img src="images/h2-channel.svg" height="38" alt="1. Channel"/></h2>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:omnihub.ai@gmail.com)
 [![Resume](https://img.shields.io/badge/%20Resume-534225?style=flat&logoColor=white)](https://min-omniai.github.io/resume/wait)
 
 <br>
 
-<h2 align="center"><img src="images/h2-skills.svg" height="38" alt="2. Skills"/></h2>
-
-</div>
+<h2><img src="images/h2-skills.svg" height="38" alt="2. Skills"/></h2>
 
 ### Game Client
 
@@ -44,11 +40,7 @@
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white"/> &nbsp
 </p>
 
-<div align="center">
-
 <br>
 <br>
 
-<img src="https://github-readme-stats-chaemin-l.vercel.app/api?username=min-omniai&&show_icons=true&theme=tokyonight" alt="min-omniai's GitHub stats" />
-
-</div>
+<img src="https://github-readme-stats-chaemin-l.vercel.app/api?username=min-omniai&show_icons=true&theme=tokyonight" alt="min-omniai's GitHub stats" />
