@@ -15,6 +15,8 @@
 
 <h2 align="center"><img src="images/h2-skills.svg" height="38" alt="2. Skills"/></h2>
 
+</div>
+
 ### Game Client
 
 <p>
@@ -41,6 +43,8 @@
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white"/> &nbsp
 </p>
+
+<div align="center">
 
 <br>
 <br>
