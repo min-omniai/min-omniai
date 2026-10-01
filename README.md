@@ -43,4 +43,8 @@
 <br>
 <br>
 
+<a href="https://github.com/min-omniai/github-profile-trophy">
+  <img src="https://github-profile-trophy-six-delta.vercel.app/?username=min-omniai&title=MultiLanguage,Commits,Repositories&theme=tokyonight&column=-1&margin-w=8" alt="min-omniai's GitHub trophies" />
+</a>
+
 <img src="https://github-readme-stats-chaemin-l.vercel.app/api?username=min-omniai&show_icons=true&theme=tokyonight" alt="min-omniai's GitHub stats" />
