@@ -47,4 +47,7 @@
   <img src="https://github-profile-trophy-six-delta.vercel.app/?username=min-omniai&title=MultiLanguage,Commits,Repositories&theme=tokyonight&column=-1&margin-w=8" alt="min-omniai's GitHub trophies" />
 </a>
 
-<img src="https://github-readme-stats-chaemin-l.vercel.app/api?username=min-omniai&show_icons=true&theme=tokyonight" alt="min-omniai's GitHub stats" />
+<p>
+  <img height="165" src="https://github-readme-stats-chaemin-l.vercel.app/api?username=min-omniai&show_icons=true&theme=tokyonight" alt="min-omniai's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-chaemin-l.vercel.app/api/top-langs/?username=min-omniai&layout=compact&langs_count=6&theme=tokyonight" alt="min-omniai's most used languages" />
+</p>
