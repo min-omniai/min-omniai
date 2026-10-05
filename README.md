@@ -4,12 +4,14 @@
   </a>
 </div>
 
+### omniAI -- @min-omniai
+
+Unity client developer who has shipped 14 mobile games at MondayOFF, currently teaching XR/Unity at Develrocket Edu.
+Now exploring how far Claude Code can take a solo game developer, starting with omni-arcade.
+
 <h2><img src="images/h2-channel.svg" height="38" alt="1. Channel"/></h2>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:omnihub.ai@gmail.com)
-[![Resume](https://img.shields.io/badge/%20Resume-534225?style=flat&logoColor=white)](https://min-omniai.github.io/resume/wait)
-
-<br>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:omnihub.ai@gmail.com) [![Resume](https://img.shields.io/badge/%20Resume-534225?style=flat&logoColor=white)](https://min-omniai.github.io/resume/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omni-choi-bs-2405b6208/) [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/min_omniai) [![Threads](https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.com/@min_omniai)
 
 <h2><img src="images/h2-skills.svg" height="38" alt="2. Skills"/></h2>
 
@@ -40,17 +42,26 @@
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white"/> &nbsp
 </p>
 
-<br>
-<br>
-
 <a href="https://github.com/min-omniai/github-profile-trophy">
   <img src="https://github-profile-trophy-six-delta.vercel.app/?username=min-omniai&title=MultiLanguage,Commits,Repositories&theme=tokyonight&column=-1&margin-w=8" alt="min-omniai's GitHub trophies" />
 </a>
-
-<br>
 
 <p>
   <img height="165" src="https://github-readme-stats-chaemin-l.vercel.app/api?username=min-omniai&show_icons=true&theme=tokyonight" alt="min-omniai's GitHub stats" />
   &nbsp;&nbsp;&nbsp;
   <img height="165" src="https://github-readme-stats-chaemin-l.vercel.app/api/top-langs/?username=min-omniai&layout=compact&langs_count=6&theme=tokyonight" alt="min-omniai's most used languages" />
 </p>
+
+<br>
+
+### 💼 Experience
+
+- Develrocket Edu · XR/Unity KDT Instructor (Nov 2025 ~ Current)
+- MondayOFF · Client Developer (Oct 2020 ~ Aug 2024) · 14 titles shipped
+- Kmong · Freelance Unity Developer (Dec 2019 ~ Oct 2020)
+
+### 🌱 I'm currently learning
+
+- Unity / C# client architecture
+- Applying AI engineering (context, harness, eval) to real work with Claude Code
+- [LLM-Wiki](https://github.com/min-omniai/ai-karpathy-llmwiki-method): personal knowledge base distilled by LLM
