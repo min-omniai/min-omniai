@@ -7,7 +7,7 @@
 ### omniAI -- @min-omniai
 
 Unity client developer who has shipped 14 mobile games at MondayOFF, currently teaching XR/Unity at Develrocket Edu.
-Now exploring how far Claude Code can take a solo game developer, starting with omni-arcade.
+Now exploring how far Claude Code can take a solo game developer.
 
 <h2><img src="images/h2-channel.svg" height="38" alt="1. Channel"/></h2>
 
